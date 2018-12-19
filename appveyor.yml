@@ -4,5 +4,9 @@ image:
 install:
 - ps: Install-Module Pester -Force -Scope CurrentUser
 build: off
+branches:
+  only:
+    - master
+    - dev
 test_script:
 - ps: Invoke-Pester -EnableExit
