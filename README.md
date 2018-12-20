@@ -1,15 +1,9 @@
 
 # Build status
-[![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g?svg=true)](https://ci.appveyor.com/project/poshscooter/hello-world/branch/build) - DEV
+[![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g/branch/dev?svg=true)]- DEV
 
-<img src="https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g?svg=true&passingText=master%20-%20OK" alt="Project Badge">
-
-<img src="https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g?svg=true&passingText=dev%20-%20OK" alt="Project Badge">
-
-[![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g?svg=true)](https://ci.appveyor.com/project/poshscooter/hello-world/branch/master) - MASTER
+[![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g/branch/master?svg=true)] - MASTER
 
 # hello-world
 
 Learning Github so I can help contribute to open source projects that interest me.
-
-
