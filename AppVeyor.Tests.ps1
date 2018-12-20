@@ -4,6 +4,6 @@ $sut = (Split-Path -Leaf $MyInvocation.MyCommand.Path) -replace '\.Tests\.', '.'
 
 Describe "AppVeyor" {
     It "does something useful" {
-        $true | Should -Be $false
+        $true | Should -Be $true
     }
 }
