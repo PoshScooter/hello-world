@@ -4,5 +4,8 @@ image:
 install:
 - ps: Install-Module Pester -Force -Scope CurrentUser
 build: off
+skip_commits:
+  files:
+    -README.md
 test_script:
 - ps: Invoke-Pester -EnableExit
