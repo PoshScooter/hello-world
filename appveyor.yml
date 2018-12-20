@@ -7,5 +7,11 @@ build: off
 skip_commits:
   files:
     -README.md
+    
+branches:
+  only:
+    - master
+    - dev
+
 test_script:
 - ps: Invoke-Pester -EnableExit
