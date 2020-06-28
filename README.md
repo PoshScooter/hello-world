@@ -1,8 +1,8 @@
 
 # Build status
-[![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g/branch/dev?svg=true)]- DEV
+![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g/branch/dev?svg=true)- DEV
 
-[![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g/branch/master?svg=true)] - MASTER
+![Build status](https://ci.appveyor.com/api/projects/status/mogby0bpcs5v597g/branch/master?svg=true) - MASTER
 
 # hello-world
 
